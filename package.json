@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "mkdir -p dist && cp -R ./* dist"
+    "build": "mkdir -p build && cp -R ../BACKEND build"
   },
   "author": "OneD",
   "license": "MIT",
