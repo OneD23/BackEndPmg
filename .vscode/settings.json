@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7632b75e-d478-4e07-917a-8d8bcd07d039/resourceGroups/NodeJS/providers/Microsoft.Web/sites/ApiPMG",
+    "appService.deploySubpath": "."
+}
