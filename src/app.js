@@ -2,7 +2,7 @@
 
 var express = require("express")
 var bodyParse = require("body-parser")
-var UserRoutes = require('../Routes/Usuarios');
+var UserRoutes = require('./public/Routes/Usuarios');
 const { userInfo } = require("os");
 
 var app = express();
