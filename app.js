@@ -24,6 +24,6 @@ app.use((req, res, next) => {
 });
 
 //Rutas
-app.use(UserRoutes)
+app.use('/user',UserRoutes)
 //exports
 module.exports = app;
