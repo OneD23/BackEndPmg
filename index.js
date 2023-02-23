@@ -2,7 +2,7 @@
 
 var mongoose = require('mongoose')
 var app = require('./app')
-var port = '2233'
+
 
 mongoose.Promise = global.Promise
 mongoose.set('strictQuery', true); 
